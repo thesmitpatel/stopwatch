@@ -1,3 +1,2 @@
 # stopwatch
-Stopwatch using html, CSS and javascrip.
-also use sound 
+Stopwatch using html, css, javascrip and also use sound 
